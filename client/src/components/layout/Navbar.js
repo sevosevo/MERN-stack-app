@@ -19,7 +19,7 @@ const Navbar = ({ auth: { isAuthenticated, loading }, logout, history }) => {
       <li>
         <a onClick={() => logout(history)} href="#!">
           <i className="fas fa-sign-out-alt">
-            <span className="hide-sm">Logout</span>
+            Logout
           </i>
         </a>
       </li>
