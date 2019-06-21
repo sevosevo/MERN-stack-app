@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://root:sevo1389@practice-hsewl.mongodb.net/connectDevelopers?retryWrites=true",
+    "jwtSecret": "secretForthetoken"
+}
